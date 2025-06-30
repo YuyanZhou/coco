@@ -181,5 +181,13 @@ If you use this code base in your research, please cite our paper with the follo
 }
 ```
 
+## Heart Demo
+
+Run `heart.py` to generate a random number between `0` and `10` and display a heart shaped output scaled to that number:
+
+```bash
+python heart.py
+```
+
 ## License
 This code is released under the MIT license (see [LICENSE](LICENSE)).
