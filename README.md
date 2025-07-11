@@ -180,6 +180,14 @@ If you use this code base in your research, please cite our paper with the follo
   year={2024}
 }
 ```
+## Dataset Statistics
+
+Run `dataset_stats.py` to show basic information about a dataset file.
+
+```bash
+python dataset_stats.py data/prosqa_train.json
+```
+
 
 ## Heart Demo
 
